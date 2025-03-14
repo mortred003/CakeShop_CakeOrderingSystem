@@ -25,6 +25,12 @@ Import the MySQL database from shop_db.sql.
 Configure the database connection in config.php.
 Run the project on a local server (XAMPP/LAMP/MAMP).
 
+Admin Login 
+
+    cakeshop/admin_login.php
+username:admin
+password:111
+
 ![cakeshopHOme](https://github.com/user-attachments/assets/d2c811b5-ce6b-48b0-a510-67cea2e0e456)
 ![cakeshop](https://github.com/user-attachments/assets/d9cf27ad-1822-45fd-8784-bcae8e08a082)
 
