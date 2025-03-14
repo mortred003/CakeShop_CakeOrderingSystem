@@ -26,3 +26,5 @@ Configure the database connection in config.php.
 Run the project on a local server (XAMPP/LAMP/MAMP).
 
 [cakeshopHOme](https://github.com/user-attachments/assets/d2c811b5-ce6b-48b0-a510-67cea2e0e456)
+![cakeshop](https://github.com/user-attachments/assets/d9cf27ad-1822-45fd-8784-bcae8e08a082)
+
